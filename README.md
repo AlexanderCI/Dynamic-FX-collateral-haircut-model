@@ -2,7 +2,7 @@
 
 Hey everyone! This is a project I put together combining some of the financial econ and stochastic risk concepts from my actuarial coursework at UofT. 
 
-The goal here is to solve a really annoying problem that multi-currency development banks face: **Collateral Liquidity Volatility**. When an international institution takes sovereign bonds or foreign currencies as collateral from different member countries, it has to apply a "haircut" (basically a discount) to protect itself. If a crisis hits and a foreign currency tanks, a fixed haircut won't save you from a major liquidity outflow.
+The goal here is to solve a really annoying problem that multi-currency development banks face, which is none other than collateral liquidity volatility. When an international institution takes sovereign bonds or foreign currencies as collateral from different member countries, it has to apply a "haircut" (basically a discount) to protect itself. If a crisis hits and a foreign currency tanks, a fixed haircut won't save you from a major liquidity outflow.
 
 This script builds a dynamic framework to calculate Value at Risk (VaR) and Expected Shortfall (ES) on historical FX returns. It simulates how much our collateral buffer could evaporate during a 10-day market panic/stress scenario.
 
