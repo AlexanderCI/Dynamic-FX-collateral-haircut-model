@@ -1,4 +1,4 @@
-# Dynamic FX Collateral Haircut Model (Liquidity Optimization)
+# Dynamic FX Collateral Haircut Model (for liquidity optimization!)
 
 Hey everyone! This is a project I put together combining some of the financial econ and stochastic risk concepts from my actuarial coursework at UofT. 
 
